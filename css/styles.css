@@ -16,8 +16,13 @@ h2 {
     text-decoration:underline;
     padding:10px;
     text-align:center;
+    margin:10px;
 }
 hr{
     border:1px solid black;
     width: 75%;
+}
+i {
+    text-align:center;
+    width:16%;
 }
