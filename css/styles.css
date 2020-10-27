@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(18, 208, 233);
+}
+h1 {
+    text-align:center;
+    font-size:40px;
+    font-family:Fantasy;
+    border:3px solid black;
+    line-height:50px;
+    padding:20px;
+    margin:10px;
+}
+
+h2 {
+    font-size:25px;
+    text-decoration:underline;
+    padding:10px;
+    text-align:center;
+}
+hr{
+    border:1px solid black;
+    width: 75%;
+}
