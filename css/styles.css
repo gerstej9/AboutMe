@@ -18,11 +18,30 @@ h2 {
     text-align:center;
     margin:10px;
 }
+.activity {
+    margin:20px 40px 0px 190px;
+    text-align:left;
+    font-family:fantasy;
+    text-decoration:none;
+}
 hr{
     border:1px solid black;
     width: 75%;
 }
 i {
     text-align:center;
-    width:16%;
+    margin:40px 50px 40px 140px;
+}
+ol {
+    margin:0px 200px;
+    list-style-type:decimal;
+}
+ul{
+    margin: 0px 250px;
+    list-style-type:disc;
+}
+.info {
+    margin: 20px 140px;
+    text-align:center;
+
 }
