@@ -4,7 +4,7 @@ Lab 02: About Me with a Guessing Game
 
 ## Contributors
 
-This website has been built with help from the instructors of Codefellows Code 201 as well as fellow classmates
+This website has been built with help from the instructors of Codefellows Code 201 as well as fellow classmates especially Alan Hung and Nick Abramowicz.
 
 ## Author
 
